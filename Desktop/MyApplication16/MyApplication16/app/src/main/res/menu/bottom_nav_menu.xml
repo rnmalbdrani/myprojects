@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/account"
+        android:icon="@drawable/ic_baseline_person_24"
+        android:title="account" />
+    <item
+        android:id="@+id/status"
+        android:icon="?android:attr/actionModeFindDrawable"
+        android:title="status" />
+    <item
+        android:id="@+id/awareness"
+        android:icon="@drawable/ic_round_credit_card_24"
+        android:title="awareness" />
+    <item
+        android:id="@+id/contans"
+        android:icon="@android:drawable/stat_sys_speakerphone"
+        android:title="contans" />
+</menu>
